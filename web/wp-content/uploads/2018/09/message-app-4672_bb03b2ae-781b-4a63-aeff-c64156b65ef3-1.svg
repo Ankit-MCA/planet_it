@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 62">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-1 {
+        stroke: #08014a;
+      }
+
+      .cls-2 {
+        stroke: #ff337f;
+      }
+    </style>
+  </defs>
+  <g id="message-app-4672_bb03b2ae-781b-4a63-aeff-c64156b65ef3" transform="translate(-3 -1)">
+    <path id="layer2" class="cls-1" d="M38,42V58a4,4,0,0,1-4,4H8a4,4,0,0,1-4-4V6A4,4,0,0,1,8,2H30M4,10H28M4,48H38"/>
+    <circle id="layer2-2" data-name="layer2" class="cls-1" cx="1" cy="1" r="1" transform="translate(20 54)"/>
+    <path id="layer1" class="cls-2" d="M59.4,2H30.6A2.6,2.6,0,0,0,28,4.6V23.4A2.6,2.6,0,0,0,30.6,26H38v7l7-7H59.4A2.6,2.6,0,0,0,62,23.4V4.6A2.6,2.6,0,0,0,59.4,2Z"/>
+    <circle id="layer1-2" data-name="layer1" class="cls-2" cx="1" cy="1" r="1" transform="translate(44 13)"/>
+    <circle id="layer1-3" data-name="layer1" class="cls-2" cx="1" cy="1" r="1" transform="translate(36 13)"/>
+    <circle id="layer1-4" data-name="layer1" class="cls-2" cx="1" cy="1" r="1" transform="translate(52 13)"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+[27-Jul-2021 07:48:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12064104 bytes) in /home/planet/public_html/PWIS/system/core/Loader.php on line 996
+[27-Jul-2021 07:51:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10635048 bytes) in /home/planet/public_html/PWIS/system/core/Loader.php on line 996
+[27-Jul-2021 07:52:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12064096 bytes) in /home/planet/public_html/PWIS/system/core/Loader.php on line 996
+[27-Jul-2021 07:58:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10635048 bytes) in /home/planet/public_html/PWIS/system/core/Loader.php on line 996
+[27-Jul-2021 07:59:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10635048 bytes) in /home/planet/public_html/PWIS/system/core/Loader.php on line 996
+[27-Jul-2021 09:07:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12084136 bytes) in /home/planet/public_html/admin/system/core/Loader.php on line 996
+[27-Jul-2021 09:14:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12084136 bytes) in /home/planet/public_html/admin/system/core/Loader.php on line 996
+[27-Jul-2021 09:16:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10653176 bytes) in /home/planet/public_html/admin/system/core/Loader.php on line 996
+[01-Sep-2021 05:38:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7297888 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 05:38:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7297888 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:21:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7238912 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:21:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7238800 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:22:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7238800 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:22:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7235160 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:22:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7231432 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:23:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7227696 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:23:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7223944 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:23:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7220216 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:23:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7216488 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:24:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7212752 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:24:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7209024 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:24:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7205304 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:24:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7201568 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:24:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7197824 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:24:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7194096 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:24:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7193976 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[01-Sep-2021 12:25:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7193976 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[02-Sep-2021 06:26:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7193960 bytes) in /home/planet/public_html/admin/system/core/Output.php on line 198
+[12-Oct-2021 07:48:51 UTC] PHP Fatal error:  Cannot redeclare Admin::invoice() in /home/planet/public_html/admin/application/controllers/Admin.php on line 1540
+[12-Oct-2021 07:49:22 UTC] PHP Fatal error:  Cannot redeclare Admin::invoice() in /home/planet/public_html/admin/application/controllers/Admin.php on line 1535

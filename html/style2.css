@@ -1,0 +1,227 @@
+.aboutus{background-image:url("img/2nd-bg.jpg");height: 400px;     margin-top: 3.5rem;}
+.aboutuss{background-image:url("img/02nd-bg.jpg");height: 200px; }
+
+
+/*////////////////////////////////////////////Portfolio start///////////////////*/
+.containerm {
+    min-height: 100vh;
+    overflow: hidden;
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.image {
+    overflow: hidden;
+    height: 350px;
+    width: 100%;
+    position: relative;
+    cursor: pointer;    
+    box-shadow: 0 0 25px 1px rgba(0, 0, 0, .3);
+    transition: .5s;
+    margin: 0px ;
+    background-color: #555
+    
+}
+
+.image:after {
+    content: '';
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 350px;
+    transform: translate(-140%, -50%);
+    background-color: black;
+    opacity: 0.8;
+    border-radius: 0%;
+    transition: .8s   
+}
+
+.image:hover:after {
+    transform: translate(-50%, -50%)
+}
+
+.image:hover img {
+    transform: translate(-50%, -50%) scale(1.3) rotate(0deg)
+}
+
+
+
+i {
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    transform: translate(-2000px, -50%);
+    color: #fff;
+    transition: .8s;
+    transition-timing-function: ease-in
+}
+
+.image:hover i {
+    transform: translate(-50%, -50%);
+    transition-timing-function: ease
+}
+
+
+
+/*////////////////////////////////////////////Portfolio End///////////////////*/
+
+
+
+h2 {
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    position: relative;
+    margin: 25px 0 50px
+}
+
+h2::after {
+    content: "";
+    width: 100px;
+    position: absolute;
+    margin: 0 auto;
+    height: 3px;
+    background: #ffdc12;
+    left: 0;
+    right: 0;
+    bottom: -10px
+}
+
+
+
+
+.carousel {   
+    margin: 0 auto;
+    padding-bottom: 50px
+}
+
+.carousel .item {
+    color: #999;
+    font-size: 14px;
+    text-align: center;
+    overflow: hidden;
+    min-height: 340px
+}
+
+.carousel .item a {
+    color: #eb7245
+}
+
+.carousel .img-box {
+    width: 145px;
+    height: 145px;
+    margin: 0 auto;
+    border-radius: 50%
+}
+
+.carousel .img-box img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 50%
+}
+
+.carousel .testimonial {
+    padding: 30px 0 10px
+}
+
+.testimonial {
+    color: #000000;
+    font: Times Roman
+}
+
+.carousel .overview {
+    text-align: center;
+    padding-bottom: 5px
+}
+
+.carousel .overview b {
+    color: #333;
+    font-size: 15px;
+    text-transform: uppercase;
+    display: block;
+    padding-bottom: 5px
+}
+
+.carousel .star-rating i {
+    font-size: 18px;
+    color: #ffdc12
+}
+
+.carousel .carousel-control {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #999;
+    text-shadow: none;
+    top: 4px
+}
+
+.carousel-control i {
+    font-size: 20px;
+    margin-right: 2px
+}
+
+.carousel-control.left {
+    left: auto;
+    right: 40px
+}
+
+.carousel-control.right i {
+    margin-right: -2px
+}
+
+.carousel .carousel-indicators {
+    bottom: 15px
+}
+
+.carousel-indicators li,
+.carousel-indicators li.active {
+    width: 11px;
+    height: 11px;
+    margin: 1px 5px;
+    border-radius: 50%
+}
+
+.carousel-indicators li {
+    background: #e2e2e2;
+    border-color: transparent
+}
+
+.carousel-indicators li.active {
+    border: none;
+    background: #888
+}
+
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+
+
+
+ul{
+    list-style: none;
+}
+
+.copywrite{background-color: black;}
+
+.btn{background-color: #75511b;}
+
+
+
+.card-header{background-color:#75511b;}
+
+
+

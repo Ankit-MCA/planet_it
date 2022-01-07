@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62 58">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-1 {
+        stroke: #ff337f;
+      }
+
+      .cls-2 {
+        stroke: #08014a;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        stroke: #001774;
+      }
+    </style>
+  </defs>
+  <g id="loading-1763_6c752d74-c1e5-4889-a164-21d1eaadbcc2" transform="translate(-1 -3)">
+    <path id="layer1" class="cls-1" d="M2,4H62V16H2ZM2,16V60H62V16"/>
+    <path id="layer2" class="cls-2" d="M22,24H42S36,38,32,38,22,24,22,24Zm0,28H42S36,38,32,38,22,52,22,52Zm4.1-8H37.9"/>
+    <circle id="layer1-2" data-name="layer1" class="cls-3" cx="1" cy="1" r="1" transform="translate(7 9)"/>
+    <circle id="layer1-3" data-name="layer1" class="cls-3" cx="1" cy="1" r="1" transform="translate(14 9)"/>
+    <circle id="layer1-4" data-name="layer1" class="cls-3" cx="1" cy="1" r="1" transform="translate(21 9)"/>
+  </g>
+</svg>
